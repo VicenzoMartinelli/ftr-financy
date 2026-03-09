@@ -1,10 +1,5 @@
 ## Introdução
 
-Faaaaaaala, dev! Parabéns por chegar até aqui! 💜
-Agora é hora de reforçar os conceitos que você aprendeu até aqui colocando a mão na massa!
-
-Este é o momento de transformar conhecimento em ação, desenvolvendo um projeto que vai consolidar suas habilidades e te preparar um pouco mais para os desafios reais!
-
 Projetos exemplos: 
 
 Frontend: https://github.com/rocketseat-education/ftr-pos-360-mindshare/tree/main/frontend
@@ -154,16 +149,6 @@ E pode marcar a gente, viu? Vai ser incrível acompanhar toda a sua evolução! 
 
 ---
 
-## Dicas
-
-Esse projeto tem como forte inspiração as funcionalidades e tecnologias vistas no projeto MindShare. Então caso tenha dúvidas, vale a pena revisitar as aulas dos módulos **Back-end GraphQL** e **Front-end GraphQL** ou o código do projeto ([**frontend**](https://github.com/rocketseat-education/ftr-pos-360-mindshare/tree/main/frontend) e [**backend**](https://github.com/rocketseat-education/ftr-pos-360-mindshare/tree/main/backend)) pois podem te ajudar bastante na resolução desse desafio.
-
----
-
-## Considerações finais
-
-Lembre-se que o intuito de um desafio é te impulsionar, por isso, dependendo do desafio, pode ser que você precise ir além do que foi discutido em sala de aula. 
-Mas isso não é algo ruim: ter autonomia para buscar informações extras é uma habilidade muito valiosa e vai ser ótimo pra você treinar ela aqui com a gente!
 
 E lembre-se: **tenha calma**! Enfrentar desafios faz parte do seu processo de aprendizado! 
 
